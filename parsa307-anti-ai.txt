@@ -1,7 +1,7 @@
 ! Title: 🚫 Parsa307's Anti-AI
 ! Description: In a world, where AI is everywhere, when nobody asked. This removes AI in places it shouldn't be. Help us to ban AI Slop & Protest: (https://x.com/BanAISlop)
 ! Homepage: https://github.com/Parsa307/filterlists
-! Last modified: Tue, 23 Sep 2025 19:00:48 +0000
+! Version: 05October2025v1
 ! Expires: 5 days
 
 ! Hide Inspiration for YouTube Studio (Basically, Ruins creativity for YouTubers)
