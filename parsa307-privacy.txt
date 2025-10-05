@@ -1,6 +1,6 @@
 ! Title: 🛡️ Parsa307's Privacy
 ! Description: Privacy, should be a human-right!
-! Homepage: https://github.com/Parsa307/filterlists
+! Homepage: https://codeberg.org/Parsast/filterlists
 ! Version: 05October2025v1
 ! Expires: 5 days
 

@@ -1,6 +1,6 @@
 ! Title: 🚫 Parsa307's Blocker Community
 ! Description: Block ADS & Where AI shouldn't be & Annoyances. That most filters miss!
-! Homepage: https://github.com/Parsa307/filterlists
+! Homepage: https://codeberg.org/Parsast/filterlists
 ! Version: 05October2025v1
 ! Expires: 5 days
 
