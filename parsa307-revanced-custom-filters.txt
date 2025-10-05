@@ -1,7 +1,0 @@
-badge$Hyped
-badge$hyped
-badge$Auto-dubbed
-badge$Free with ads
-badge$YouTube featured
-video_description_header$Members first
-more_drawer
