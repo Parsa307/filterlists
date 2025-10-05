@@ -9,8 +9,8 @@
 * 🌟 [Custom-Filters on Telegram](https://t.me/custom_filters)
 
 # **🚫 Anti-NSFW Filters:**
-1. 🌟 **StevenBlack/hosts extension porn** (blocks Porn/FAP websites) [Subscribe](https://subscribe.adblockplus.org/?location=https://raw.githubusercontent.com/StevenBlack/hosts/master/alternates/porn-only/hosts&title=StevenBlack/hosts%20extension%20porn)
-2. 🌟 **HaGeZi's NSFW DNS Blocklist (Parsa307)** (blocks Porn/FAP websites with some false positives removed) [Subscribe](https://subscribe.adblockplus.org/?location=https://raw.githubusercontent.com/Parsa307/dns-blocklists/main/adblock/nsfw.txt&title=HaGeZi's%20NSFW%20DNS%20Blocklist)
+1. 🌟 **StevenBlack/hosts extension porn** (blocks Porn/FAP websites) Add this URL to your content blocker: https://raw.githubusercontent.com/StevenBlack/hosts/master/alternates/porn-only/hosts
+2. 🌟 **HaGeZi's NSFW DNS Blocklist (Parsa307)** (blocks Porn/FAP websites with some false positives removed) Add this URL to your content blocker: https://raw.githubusercontent.com/Parsa307/dns-blocklists/main/adblock/nsfw.txt
 
 # **ADS & General Annoyances:**
 1. 🌟 🚫 **Parsa307's Blocker** (Blocks things not covered by most of the filters) (Blocks AI too, NSFW (If you don't want the blockation, switch to Parsa307's Blocker Community) in places it shouldn't be.) (Introduces changes, I agree. Could be conversational) Add this URL to your content blocker: https://codeberg.org/Parsast/filterlists/raw/branch/main/parsa307-blocker.txt Parsa307's Blocker support relies on yokoffing annoyances [Look for his Annoyances filterlist](https://github.com/yokoffing/filterlists?tab=readme-ov-file#annoyances)
