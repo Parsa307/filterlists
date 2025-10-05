@@ -1,0 +1,9 @@
+! Title: 🛡️ Parsa307's Privacy
+! Description: Privacy, should be a human-right!
+! Homepage: https://github.com/Parsa307/filterlists
+! Last modified: Tue, 23 Sep 2025 17:08:05 +0000
+! Expires: 5 days
+
+! Reddit (Recent Visited Pages, Also, removes recent-subreddits-store for your Privacy.)
+reddit.com##reddit-recent-pages
+reddit.com##+js(set-local-storage-item, recent-subreddits-store, $remove$)

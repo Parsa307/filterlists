@@ -1,0 +1,10 @@
+! Title: 🚫 Parsa307's Anti-AI Mobile
+! Description: In a world, where AI is everywhere, when nobody asked. This removes AI in places it shouldn't be. Help us to ban AI Slop & Protest: (https://x.com/BanAISlop)
+! Homepage: https://github.com/Parsa307/filterlists
+! Last modified: Tue, 23 Sep 2025 18:53:46 +0330
+
+! Hide Reddit Answers
+reddit.com###answers-nav-button
+
+! Hide GitHub Copliot Header Message
+github.com##.copilotPreview__header

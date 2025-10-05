@@ -1,0 +1,28 @@
+! Title: 🚫 Parsa307's Anti-AI
+! Description: In a world, where AI is everywhere, when nobody asked. This removes AI in places it shouldn't be. Help us to ban AI Slop & Protest: (https://x.com/BanAISlop)
+! Homepage: https://github.com/Parsa307/filterlists
+! Last modified: Tue, 23 Sep 2025 19:00:48 +0000
+! Expires: 5 days
+
+! Hide Inspiration for YouTube Studio (Basically, Ruins creativity for YouTubers)
+studio.youtube.com###inspiration-tab
+
+! Hide GitHub Copilot
+github.com##.AppHeader-CopilotChat
+github.com##copilot-dashboard-entrypoint
+github.com###blob-view-header-copilot-icon
+
+! Hide Grok for X/Twitter Help & Protest: (https://x.com/BanAISlop)
+x.com##[href="/i/grok"]
+x.com##[aria-label="Grok actions"]
+x.com##[aria-label="Enhance your post with Grok"]
+x.com##[data-testid="GrokDrawer"]
+
+! Hide Chat for X/Twitter Help & Protest: (https://x.com/BanAISlop)
+x.com##[href="/i/chat"]
+
+! Hide Reddit Answers
+reddit.com##faceplate-tracker[noun="gen_guides_sidebar"]
+
+! Hide Gemini for Google Mail
+mail.google.com##[data-rp-placement-id="gemkick-pep-icon-callout-id"]

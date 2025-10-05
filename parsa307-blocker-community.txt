@@ -1,0 +1,28 @@
+! Title: 🚫 Parsa307's Blocker Community
+! Description: Block ADS & Where AI shouldn't be & Annoyances. That most filters miss!
+! Homepage: https://github.com/Parsa307/filterlists
+! Last modified: Tue, 23 Sep 2025 17:25:58 +0000
+! Expires: 5 days
+
+! Annoyances
+!#include parsa307-annoyances.txt
+
+! AI
+!#include parsa307-anti-ai.txt
+
+! Privacy
+!#include parsa307-privacy.txt
+
+! Mobile (Firefox Android, Cromite, AdGuard for Android, AdGuard for iOS, AdGuard for Safari, Samsung Internet)
+!#if env_mobile
+!#include parsa307-anti-ai-mobile.txt
+!#endif
+!#if (adguard && adguard_app_android)
+!#include parsa307-anti-ai-mobile.txt
+!#endif
+!#if (adguard && adguard_app_ios)
+!#include parsa307-anti-ai-mobile.txt
+!#endif
+!#if (adguard && adguard_ext_android_cb)
+!#include parsa307-anti-ai-mobile.txt
+!#endif
