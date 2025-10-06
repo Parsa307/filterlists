@@ -1,6 +1,6 @@
-! Title: 🚫 Parsa307's Anti-NSFW
+! Title: 🚫 Parsast Anti-NSFW
 ! Version: 05October2025v1
-! Description: Includes Parsa307's Anti-NSFW for specific websites (Also use: StevenBlack/hosts extension porn or HaGeZi's NSFW DNS Blocklist (Parsa307)).
+! Description: Includes Parsast Anti-NSFW for specific websites (Also use: StevenBlack/hosts extension porn or HaGeZi's NSFW DNS Blocklist (Parsa307)).
 ! Homepage: https://codeberg.org/Parsast/filterlists
 
 ! Block Fap section for nyaa.si

@@ -1,4 +1,4 @@
-! Title: 🚫 Parsa307's Anti-AI Mobile
+! Title: 🚫 Parsast Anti-AI Mobile
 ! Version: 05October2025v1
 ! Description: In a world, where AI is everywhere, when nobody asked. This removes AI in places it shouldn't be. Help us to ban AI Slop & Protest: (https://x.com/BanAISlop)
 ! Homepage: https://codeberg.org/Parsast/filterlists
