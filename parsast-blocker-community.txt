@@ -5,24 +5,24 @@
 ! Homepage: https://codeberg.org/Parsast/filterlists
 
 ! Annoyances
-!#include parsa307-annoyances.txt
+!#include parsast-annoyances.txt
 
 ! AI
-!#include parsa307-anti-ai.txt
+!#include parsast-anti-ai.txt
 
 ! Privacy
-!#include parsa307-privacy.txt
+!#include parsast-privacy.txt
 
 ! Mobile (Firefox Android, Cromite, AdGuard for Android, AdGuard for iOS, AdGuard for Safari, Samsung Internet)
 !#if env_mobile
-!#include parsa307-anti-ai-mobile.txt
+!#include parsast-anti-ai-mobile.txt
 !#endif
 !#if (adguard && adguard_app_android)
-!#include parsa307-anti-ai-mobile.txt
+!#include parsast-anti-ai-mobile.txt
 !#endif
 !#if (adguard && adguard_app_ios)
-!#include parsa307-anti-ai-mobile.txt
+!#include parsast-anti-ai-mobile.txt
 !#endif
 !#if (adguard && adguard_ext_android_cb)
-!#include parsa307-anti-ai-mobile.txt
+!#include parsast-anti-ai-mobile.txt
 !#endif
