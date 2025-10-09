@@ -16,7 +16,7 @@ x.com##[href="/i/verified-orgs-signup"]
 x.com##[href="https://ads.x.com/?ref=gl-tw-tw-twitter-ads-rweb"]
 x.com##[data-testid="super-upsell-UpsellCardRenderProperties"]
 
-! Reddit (Games on Reddit, CUSTOM FEEDS, Advertise, Premium, Explore, Chat Resources)
+! Reddit (Games on Reddit, Custom Feeds, Advertise, Premium, Explore, Chat Resources)
 reddit.com##faceplate-tracker[noun="advertise"]
 reddit.com##faceplate-tracker[noun="explore"]
 reddit.com##faceplate-tracker[noun="multireddits_menu"]
