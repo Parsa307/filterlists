@@ -33,7 +33,7 @@ reddit.com###RESOURCES
 reddit.com###multireddits_section
 reddit.com###advertise-button
 
-! YouTube (Premium, Playables, Clips, YouTube Kids)
+! YouTube (Clips, Playables, Premium, YouTube Kids)
 youtube.com##.ytd-guide-entry-renderer.style-scope[href="/feed/clips"]
 youtube.com##.ytd-guide-entry-renderer.style-scope[href="/playables"]
 youtube.com##.ytd-guide-entry-renderer.style-scope[href="/premium"]
