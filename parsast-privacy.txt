@@ -1,9 +1,9 @@
 ! Title: 🛡️ Parsast Privacy
-! Version: 05October2025v1
+! Version: 09October2025v1
 ! Expires: 5 days
 ! Description: Privacy, should be a human-right!
 ! Homepage: https://codeberg.org/Parsast/filterlists
 
-! Reddit (Recent Visited Pages, Also, removes recent-subreddits-store for your Privacy.)
+! Reddit (Recent Visited Pages)
 reddit.com##reddit-recent-pages
 reddit.com##+js(set-local-storage-item, recent-subreddits-store, $remove$)
