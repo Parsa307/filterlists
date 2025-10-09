@@ -1,5 +1,5 @@
 ! Title: 🚫 Parsast Annoyances
-! Version: 09October2025v5
+! Version: 09October2025v6
 ! Expires: 5 days
 ! Description: Block Annoyances. Annoyances not covered by other filterlists.
 ! Homepage: https://codeberg.org/Parsast/filterlists
@@ -20,9 +20,9 @@ x.com##[data-testid="super-upsell-UpsellCardRenderProperties"]
 reddit.com##faceplate-tracker[noun="explore"]
 reddit.com##faceplate-tracker[noun="games_drawer"]
 reddit.com##faceplate-tracker[noun="multireddits_menu"]
-reddit.com##faceplate-tracker[noun="premium_menu"]
 reddit.com##faceplate-tracker[source="achievements"]
 reddit.com##faceplate-tracker[source="earn"]
+reddit.com##faceplate-tracker[noun="premium_menu"]
 reddit.com##faceplate-tracker[noun="advertise"]
 reddit.com##faceplate-tracker[noun="try_reddit_pro"]
 reddit.com##.nd\:hidden > .rounded-none.border-none.bg-transparent.m-0.p-0 > .font-normal > faceplate-tracker > .mt-0.list-none.relative
