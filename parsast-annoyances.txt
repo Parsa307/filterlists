@@ -34,9 +34,9 @@ reddit.com###multireddits_section
 reddit.com###advertise-button
 
 ! YouTube (Premium, Playables, Clips, YouTube Kids)
-youtube.com##.ytd-guide-entry-renderer.style-scope[href="/premium"]
-youtube.com##.ytd-guide-entry-renderer.style-scope[href="/playables"]
 youtube.com##.ytd-guide-entry-renderer.style-scope[href="/feed/clips"]
+youtube.com##.ytd-guide-entry-renderer.style-scope[href="/playables"]
+youtube.com##.ytd-guide-entry-renderer.style-scope[href="/premium"]
 youtube.com##.ytd-guide-entry-renderer.style-scope[href="https://www.youtubekids.com/?source=youtube_web"]
 
 ! YouTube Music (Upgrade)
