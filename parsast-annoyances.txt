@@ -16,15 +16,15 @@ x.com##[href="/i/verified-orgs-signup"]
 x.com##[href="https://ads.x.com/?ref=gl-tw-tw-twitter-ads-rweb"]
 x.com##[data-testid="super-upsell-UpsellCardRenderProperties"]
 
-! Reddit (Explore, Games on Reddit, Custom Feeds, Advertise, Premium, Resources)
+! Reddit (Explore, Games on Reddit, Custom Feeds, Premium, Achievements, Earn, Advertise, Try Reddit Pro, Resources)
 reddit.com##faceplate-tracker[noun="explore"]
 reddit.com##faceplate-tracker[noun="games_drawer"]
 reddit.com##faceplate-tracker[noun="multireddits_menu"]
-reddit.com##faceplate-tracker[noun="advertise"]
 reddit.com##faceplate-tracker[noun="premium_menu"]
-reddit.com##faceplate-tracker[noun="try_reddit_pro"]
-reddit.com##faceplate-tracker[source="earn"]
 reddit.com##faceplate-tracker[source="achievements"]
+reddit.com##faceplate-tracker[source="earn"]
+reddit.com##faceplate-tracker[noun="advertise"]
+reddit.com##faceplate-tracker[noun="try_reddit_pro"]
 reddit.com##.nd\:hidden > .rounded-none.border-none.bg-transparent.m-0.p-0 > .font-normal > faceplate-tracker > .mt-0.list-none.relative
 reddit.com##hr.border-0.bg-neutral-border-weak.w-100.h-px:nth-of-type(1)
 reddit.com##hr.border-neutral-border-weak.my-sm.w-100:nth-of-type(2)
