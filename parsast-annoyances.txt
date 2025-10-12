@@ -33,11 +33,12 @@ reddit.com###multireddits_section
 reddit.com###RESOURCES
 reddit.com###advertise-button
 
-! YouTube (Clips, Playables, Premium, YouTube Kids)
+! YouTube (Clips, Playables, Premium, YouTube Kids, Purchases and memberships)
 youtube.com##.ytd-guide-entry-renderer.style-scope[href="/feed/clips"]
 youtube.com##.ytd-guide-entry-renderer.style-scope[href="/playables"]
 youtube.com##.ytd-guide-entry-renderer.style-scope[href="/premium"]
 youtube.com##.ytd-guide-entry-renderer.style-scope[href="https://www.youtubekids.com/?source=youtube_web"]
+youtube.com##.ytd-guide-entry-renderer.style-scope[href="/paid_memberships?ybp=mAEK"]
 
 ! YouTube Music (Upgrade)
 music.youtube.com##ytmusic-guide-entry-renderer.ytmusic-guide-section-renderer.style-scope:nth-of-type(4)
