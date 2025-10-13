@@ -33,7 +33,7 @@ reddit.com###multireddits_section
 reddit.com###RESOURCES
 reddit.com###advertise-button
 
-! YouTube (Youe clips, Playables, YouTube Premium, YouTube Kids, Purchases and memberships)
+! YouTube (Your clips, Playables, YouTube Premium, YouTube Kids, Purchases and memberships)
 youtube.com###guide [title="Your clips"], .ytd-mini-guide-entry-renderer[title="Your clips"]
 youtube.com###guide [title="Playables"], .ytd-mini-guide-entry-renderer[title="Playables"]
 youtube.com###guide [title="YouTube Premium"], .ytd-mini-guide-entry-renderer[title="YouTube Premium"]
