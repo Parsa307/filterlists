@@ -1,5 +1,5 @@
 ! Title: 🚫 Parsast Annoyances
-! Version: 12October2025v2
+! Version: 13October2025v1
 ! Expires: 5 days
 ! Description: Block Annoyances. Annoyances not covered by other filterlists.
 ! Homepage: https://codeberg.org/Parsast/filterlists
@@ -33,11 +33,11 @@ reddit.com###multireddits_section
 reddit.com###RESOURCES
 reddit.com###advertise-button
 
-! YouTube (Clips, Playables, Premium, YouTube Kids, Purchases and memberships)
-youtube.com##.ytd-guide-entry-renderer.style-scope[href="/feed/clips"]
-youtube.com##.ytd-guide-entry-renderer.style-scope[href="/playables"]
-youtube.com##.ytd-guide-entry-renderer.style-scope[href="/premium"]
-youtube.com##.ytd-guide-entry-renderer.style-scope[href="https://www.youtubekids.com/?source=youtube_web"]
+! YouTube (Youe clips, Playables, YouTube Premium, YouTube Kids, Purchases and memberships)
+youtube.com###guide [title="Your clips"], .ytd-mini-guide-entry-renderer[title="Your clips"]
+youtube.com###guide [title="Playables"], .ytd-mini-guide-entry-renderer[title="Playables"]
+youtube.com###guide [title="YouTube Premium"], .ytd-mini-guide-entry-renderer[title="YouTube Premium"]
+youtube.com###guide [title="YouTube Kids"], .ytd-mini-guide-entry-renderer[title="YouTube Kids"]
 youtube.com##.ytd-compact-link-renderer.style-scope[href="/paid_memberships?ybp=mAEK"]
 
 ! YouTube Music (Upgrade)
