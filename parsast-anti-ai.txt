@@ -1,7 +1,7 @@
 ! Title: 🚫 Parsast Anti-AI
 ! Version: 05October2025v1
 ! Expires: 5 days
-! Description: In a world, where AI is everywhere, when nobody asked. This removes AI in places it shouldn't be. Help us to ban AI Slop & Protest: (https://x.com/BanAISlop)
+! Description: In a world, where AI is everywhere, when nobody asked. This removes AI in places it shouldn't be!
 ! Homepage: https://codeberg.org/Parsast/filterlists
 
 ! Hide Inspiration for YouTube Studio (Basically, Ruins creativity for YouTubers)
@@ -12,13 +12,13 @@ github.com##.AppHeader-CopilotChat
 github.com##copilot-dashboard-entrypoint
 github.com###blob-view-header-copilot-icon
 
-! Hide Grok for X/Twitter Help & Protest: (https://x.com/BanAISlop)
+! Hide Grok for X/Twitter
 x.com##[href="/i/grok"]
 x.com##[aria-label="Grok actions"]
 x.com##[aria-label="Enhance your post with Grok"]
 x.com##[data-testid="GrokDrawer"]
 
-! Hide Chat for X/Twitter Help & Protest: (https://x.com/BanAISlop)
+! Hide Chat for X/Twitter
 x.com##[href="/i/chat"]
 
 ! Hide Reddit Answers
