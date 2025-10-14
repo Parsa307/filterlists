@@ -8,7 +8,7 @@
 studio.youtube.com###inspiration-tab
 
 ! Hide GitHub Copilot
-github.com##.AppHeader-CopilotChat
+github.com###copilot-chat-header-button
 github.com##copilot-dashboard-entrypoint
 github.com###blob-view-header-copilot-icon
 github.com###copilot-diff-header-button
