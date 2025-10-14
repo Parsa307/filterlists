@@ -1,5 +1,5 @@
 ! Title: 🚫 Parsast Anti-AI
-! Version: 14October2025v1
+! Version: 14October2025v2
 ! Expires: 5 days
 ! Description: In a world, where AI is everywhere, when nobody asked. This removes AI in places it shouldn't be!
 ! Homepage: https://codeberg.org/Parsast/filterlists
