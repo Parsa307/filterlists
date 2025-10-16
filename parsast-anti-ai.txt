@@ -1,5 +1,5 @@
 ! Title: 🚫 Parsast Anti-AI
-! Version: 14October2025v2
+! Version: 16October2025v1
 ! Expires: 5 days
 ! Description: In a world, where AI is everywhere, when nobody asked. This removes AI in places it shouldn't be!
 ! Homepage: https://codeberg.org/Parsast/filterlists
@@ -17,6 +17,7 @@ github.com###copilot-diff-header-button
 x.com##[href="/i/grok"]
 x.com##[aria-label="Grok actions"]
 x.com##[aria-label="Enhance your post with Grok"]
+x.com##[aria-label="Profile Summary"]
 x.com##[data-testid="GrokDrawer"]
 
 ! Hide Chat for X/Twitter
