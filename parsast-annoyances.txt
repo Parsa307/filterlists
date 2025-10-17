@@ -21,10 +21,6 @@ reddit.com##faceplate-tracker[source="earn"]
 reddit.com##faceplate-tracker[noun="premium_menu"]
 reddit.com##faceplate-tracker[noun="advertise"]
 reddit.com##faceplate-tracker[noun="try_reddit_pro"]
-reddit.com##.nd\:hidden > .rounded-none.border-none.bg-transparent.m-0.p-0 > .font-normal > faceplate-tracker > .mt-0.list-none.relative
-reddit.com##hr.border-0.bg-neutral-border-weak.w-100.h-px:nth-of-type(1)
-reddit.com##hr.border-neutral-border-weak.my-sm.w-100:nth-of-type(2)
-reddit.com##hr.border-neutral-border-weak.my-sm.w-100:nth-of-type(4)
 reddit.com###multireddits_section
 reddit.com###RESOURCES
 reddit.com###advertise-button
