@@ -7,12 +7,6 @@
 ! Hide Inspiration for YouTube Studio
 studio.youtube.com###inspiration-tab
 
-! Hide GitHub Copilot
-github.com###copilot-chat-header-button
-github.com##copilot-dashboard-entrypoint
-github.com###blob-view-header-copilot-icon
-github.com###copilot-diff-header-button
-
 ! Hide Grok for X/Twitter
 x.com##[href="/i/grok"]
 x.com##[aria-label="Grok actions"]

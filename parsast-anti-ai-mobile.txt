@@ -5,6 +5,3 @@
 
 ! Hide Reddit Answers
 reddit.com###answers-nav-button
-
-! Hide GitHub Copliot Header Message
-github.com##.copilotPreview__header
