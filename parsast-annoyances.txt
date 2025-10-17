@@ -1,12 +1,8 @@
 ! Title: 🚫 Parsast Annoyances
-! Version: 16October2025v1
+! Version: 17October2025v1
 ! Expires: 5 days
 ! Description: Block Annoyances. Annoyances not covered by other filterlists.
 ! Homepage: https://codeberg.org/Parsast/filterlists
-
-! GitHub (Copilot Preview Disabled)
-github.com##.copilotPreview-disabled
-github.com##.copilotPreview-disabled__message
 
 ! X/Twitter (Jobs, Premium, Premium Upsell, Monetization, Verified Orgs, Ads)
 x.com##[href="/jobs"]
