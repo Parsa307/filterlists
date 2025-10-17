@@ -1,5 +1,5 @@
 ! Title: 🚫 Parsast Annoyances
-! Version: 17October2025v1
+! Version: 17October2025v2
 ! Expires: 5 days
 ! Description: Block Annoyances. Annoyances not covered by other filterlists.
 ! Homepage: https://codeberg.org/Parsast/filterlists
