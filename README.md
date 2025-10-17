@@ -2,10 +2,6 @@
 
 [![Please don't upload to GitHub](https://nogithub.codeberg.page/badge-sq.svg)](https://nogithub.codeberg.page)
 
-# **🚫 Mission Stop AI Slop:** (Really, we should stop it. Before it goes very bad. I am also having a hard time to block those Pesky-AI no one asked in the platform.)
-* 🌟 [Ban AI Slop on X/Twitter](https://x.com/BanAISlop)
-* 🌟 [Ban AI Slop on Reddit](https://reddit.com/r/BanAISlop)
-
 # **Custom Filters for ReVanced or Any Related forks:**
 * 🌟 [Custom-filters ReVanced/RVX on Telegram](https://t.me/custom_filters_rvx)
 * 🌟 [Custom-Filters on Telegram](https://t.me/custom_filters)
