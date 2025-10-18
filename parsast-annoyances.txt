@@ -1,5 +1,5 @@
 ! Title: 🚫 Parsast Annoyances
-! Version: 17October2025v2
+! Version: 18October2025v1
 ! Expires: 5 days
 ! Description: Block Annoyances. Annoyances not covered by other filterlists.
 ! Homepage: https://codeberg.org/Parsast/filterlists
@@ -21,9 +21,11 @@ reddit.com##faceplate-tracker[source="earn"]
 reddit.com##faceplate-tracker[noun="premium_menu"]
 reddit.com##faceplate-tracker[noun="advertise"]
 reddit.com##faceplate-tracker[noun="try_reddit_pro"]
+reddit.com##faceplate-tracker[noun="resources_menu"]
 reddit.com###multireddits_section
 reddit.com###RESOURCES
 reddit.com###advertise-button
+reddit.com##hr.border-0.bg-neutral-border-weak.w-100.h-px:nth-of-type(1)
 
 ! YouTube (Your clips, Playables, YouTube Premium, YouTube Kids, Purchases and memberships)
 www.youtube.com###guide [title="Your clips"], .ytd-mini-guide-entry-renderer[title="Your clips"]
