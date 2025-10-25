@@ -1,6 +1,5 @@
 ! Title: 🚫 Parsast Blocker
 ! Version: 05October2025v1
-! Expires: 5 days
 ! Description: Block ADS & NSFW & Where AI shouldn't be & Annoyances. That most filters miss!
 ! Homepage: https://codeberg.org/Parsast/filterlists
 
