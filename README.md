@@ -3,8 +3,11 @@
 [![Please don't upload to GitHub](https://nogithub.codeberg.page/badge-sq.svg)](https://nogithub.codeberg.page)
 
 # **Custom Filters for ReVanced or Any Related forks:**
-* 🌟 [Custom-filters ReVanced/RVX on Telegram](https://t.me/custom_filters_rvx)
-* 🌟 [Custom-Filters on Telegram](https://t.me/custom_filters)
+- 🌟 [Custom-filters ReVanced/RVX on Telegram](https://t.me/custom_filters_rvx)
+- 🌟 [Custom-Filters on Telegram](https://t.me/custom_filters)
+
+# **Custom Filters for Wa Enhancer:**
+- 🌟 [Wa Enhancer Filters](https://t.me/waenhancer_filters)
 
 # **🚫 Anti-NSFW Filters:**
 1. 🌟 **StevenBlack/hosts extension porn** (blocks Porn/FAP websites) Add this URL to your content blocker: https://raw.githubusercontent.com/StevenBlack/hosts/master/alternates/porn-only/hosts
