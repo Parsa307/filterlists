@@ -7,7 +7,7 @@
 - 🌟 [Custom-Filters on Telegram](https://t.me/custom_filters)
 
 # **Custom Filters for Wa Enhancer:**
-- 🌟 [Wa Enhancer Filters](https://t.me/waenhancer_filters)
+- 🌟 [Wa Enhancer Filters on Telegram](https://t.me/waenhancer_filters)
 
 # **🚫 Anti-NSFW Filters:**
 1. 🌟 **StevenBlack/hosts extension porn** (blocks Porn/FAP websites) Add this URL to your content blocker: https://raw.githubusercontent.com/StevenBlack/hosts/master/alternates/porn-only/hosts
