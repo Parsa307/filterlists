@@ -7,6 +7,8 @@
 - 🌟 [Custom-Filters on Telegram](https://t.me/custom_filters)
 
 # **Custom Filters for Wa Enhancer:**
+- 🌟 [Wa Enhancer Filters Topic on Telegram](https://t.me/waenhancer/206997)
+- 🌟 [Filters Chat Topic on Telegram](https://t.me/waenhancer/7588)
 - 🌟 [Wa Enhancer Filters on Telegram](https://t.me/waenhancer_filters)
 
 # **🚫 Anti-NSFW Filters:**
