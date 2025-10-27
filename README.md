@@ -20,5 +20,5 @@
 
 # **For Anime lovers with StevenBlack/hosts extension porn:**
 ```
-||konachan.com$badfilter
+||konachan.com^$badfilter
 ```
