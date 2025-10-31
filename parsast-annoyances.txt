@@ -3,7 +3,7 @@
 ! Description: Block Annoyances. Annoyances not covered by other filterlists.
 ! Homepage: https://codeberg.org/Parsast/filterlists
 
-! X/Twitter (Jobs, Premium, Premium Upsell, Monetization, Verified Orgs, Ads)
+! X/Twitter (Jobs, Premium, Monetization, Verified Orgs, Ads)
 x.com##[href="/jobs"]
 x.com##[href="/i/premium_sign_up"]
 x.com##[href="/i/monetization"]
