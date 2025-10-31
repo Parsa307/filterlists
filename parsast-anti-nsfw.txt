@@ -1,5 +1,5 @@
 ! Title: 🚫 Parsast Anti-NSFW
-! Version: 06October2025v1
+! Version: 31October2025v1
 ! Description: Block NSFW links in some websites.
 ! Homepage: https://codeberg.org/Parsast/filterlists
 
