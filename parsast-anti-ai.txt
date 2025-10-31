@@ -6,6 +6,9 @@
 ! Hide Inspiration for YouTube Studio
 studio.youtube.com###inspiration-tab
 
+! Hide Grok
+x.com##[data-testid="GrokDrawer"]
+
 ! Hide Chat for X/Twitter
 x.com##[href="/i/chat"]
 
