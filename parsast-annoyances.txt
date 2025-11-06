@@ -1,15 +1,7 @@
 ! Title: 🚫 Parsast Annoyances
-! Version: 3November2025v1
+! Version: 6November2025v1
 ! Description: Block Annoyances. Annoyances not covered by other filterlists.
 ! Homepage: https://codeberg.org/Parsast/filterlists
-
-! X/Twitter (Jobs, Premium, Premium Upsell, Monetization, Verified Orgs, Ads)
-x.com##[href="/jobs"]
-x.com##[href="/i/premium_sign_up"]
-x.com##[href="/i/monetization"]
-x.com##[href="/i/verified-orgs-signup"]
-x.com##[href="https://ads.x.com/?ref=gl-tw-tw-twitter-ads-rweb"]
-x.com##[data-testid="super-upsell-UpsellCardRenderProperties"] 
 
 ! Reddit (Advertise Button)
 reddit.com###advertise-button
