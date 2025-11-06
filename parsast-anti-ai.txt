@@ -6,13 +6,6 @@
 ! Hide Inspiration for YouTube Studio
 studio.youtube.com###inspiration-tab
 
-! Hide Grok for X/Twitter
-x.com##[href="/i/grok"]
-x.com##[aria-label="Grok actions"]
-x.com##[aria-label="Enhance your post with Grok"]
-x.com##[aria-label="Profile Summary"]
-x.com##[data-testid="GrokDrawer"]
-
 ! Hide Chat for X/Twitter
 x.com##[href="/i/chat"]
 
