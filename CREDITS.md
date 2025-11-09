@@ -1,2 +1,3 @@
 - [MasterKia](https://github.com/MasterKia) For his Including method.
 - [yokoffing](https://github.com/yokoffing) for YT Menu method.
+- [uBlock Static filter syntax Wiki](https://github.com/gorhill/uBlock/wiki/Static-filter-syntax)
