@@ -1,5 +1,5 @@
 ! Title: 🚫 Parsast Annoyances
-! Version: 6November2025v1
+! Version: 12November2025v1
 ! Description: Block Annoyances. Annoyances not covered by other filterlists.
 ! Homepage: https://codeberg.org/Parsast/filterlists
 
@@ -11,10 +11,10 @@ www.youtube.com###guide [title="Your clips"], .ytd-mini-guide-entry-renderer[tit
 www.youtube.com###guide [title="Playables"], .ytd-mini-guide-entry-renderer[title="Playables"]
 www.youtube.com###guide [title="YouTube Premium"], .ytd-mini-guide-entry-renderer[title="YouTube Premium"]
 www.youtube.com###guide [title="YouTube Kids"], .ytd-mini-guide-entry-renderer[title="YouTube Kids"]
-www.youtube.com##.ytd-compact-link-renderer.style-scope[href="/paid_memberships?ybp=mAEK"]
+www.youtube.com##.ytd-compact-link-renderer[href="/paid_memberships?ybp=mAEK"]
 
 ! YouTube Music (Upgrade)
-music.youtube.com##ytmusic-guide-entry-renderer.ytmusic-guide-section-renderer.style-scope:nth-of-type(4)
+music.youtube.com##ytmusic-guide-entry-renderer:has-text(Upgrade)
 
 ! Google Photos (Unlock storage discount)
 photos.google.com##[data-utm-campaign="photos_storage_near_quota"]
