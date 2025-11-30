@@ -1,5 +1,5 @@
 ! Title: 🚫 Parsast Anti-AI
-! Version: 30November2025v1
+! Version: 30November2025v2
 ! Description: In a world, where AI is everywhere, when nobody asked. This removes AI in places it shouldn't be!
 ! Homepage: https://codeberg.org/Parsast/filterlists
 
@@ -11,3 +11,6 @@ x.com##[href="/i/chat"]
 
 ! Hide Reddit Answers
 reddit.com##faceplate-tracker[noun="gen_guides_sidebar"]
+
+! Hide Gemini for Google Mail
+mail.google.com##[data-rp-placement-id="gemkick-pep-icon-callout-id"] 
