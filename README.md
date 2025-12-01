@@ -4,7 +4,6 @@
 
 # **Custom Filters for ReVanced or Any Related forks:**
 - 🌟 [Custom-filters ReVanced/RVX on Telegram](https://t.me/custom_filters_rvx)
-- 🌟 [Custom-Filters on Telegram](https://t.me/custom_filters)
 
 # **🚫 Anti-NSFW Filters:**
 1. 🌟 **HaGeZi's NSFW DNS Blocklist** (blocks NSFW/Porn websites) Add this URL to your content-blocker: https://raw.githubusercontent.com/hagezi/dns-blocklists/refs/heads/main/adblock/nsfw.txt
