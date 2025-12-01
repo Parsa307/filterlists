@@ -6,7 +6,7 @@
 ! Reddit (Advertise Button)
 reddit.com###advertise-button
 
-! YouTube (Your clips, Playables, YouTube Premium, YouTube Kids, Purchases and memberships)
+! YouTube (Your clips, Playables, YouTube Premium, YouTube Kids, Purchases and memberships, Auto-dubbed)
 www.youtube.com###guide [title="Your clips"], .ytd-mini-guide-entry-renderer[title="Your clips"]
 www.youtube.com###guide [title="Playables"], .ytd-mini-guide-entry-renderer[title="Playables"]
 www.youtube.com###guide [title="YouTube Premium"], .ytd-mini-guide-entry-renderer[title="YouTube Premium"]
