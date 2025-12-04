@@ -1,16 +1,15 @@
 ! Title: 🚫 Parsast Annoyances
-! Version: 1December2025v2
+! Version: 4December2025v2
 ! Description: Block Annoyances. Annoyances not covered by other filterlists.
 ! Homepage: https://codeberg.org/Parsast/filterlists
 
 ! Reddit (Advertise Button)
 reddit.com###advertise-button
 
-! YouTube (Your clips, Playables, YouTube Kids, Auto-dubbed)
+! YouTube (Your clips, Playables, YouTube Kids)
 www.youtube.com###guide [title="Your clips"], .ytd-mini-guide-entry-renderer[title="Your clips"]
 www.youtube.com###guide [title="Playables"], .ytd-mini-guide-entry-renderer[title="Playables"]
 www.youtube.com###guide [title="YouTube Kids"], .ytd-mini-guide-entry-renderer[title="YouTube Kids"]
-www.youtube.com##.yt-content-metadata-view-model__badge:has-text(Auto-dubbed)
 
 ! YouTube Music (Upgrade)
 music.youtube.com##ytmusic-guide-entry-renderer:has-text(Upgrade)
