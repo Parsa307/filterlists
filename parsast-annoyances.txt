@@ -6,7 +6,7 @@
 ! Reddit (Advertise Button)
 reddit.com###advertise-button
 
-! YouTube (Your clips, Playables, YouTube Kids)
+! YouTube (Clips, Playables, YouTube Kids)
 www.youtube.com###guide [title="Clips"], .ytd-mini-guide-entry-renderer[title="Clips"]
 www.youtube.com###guide [title="Playables"], .ytd-mini-guide-entry-renderer[title="Playables"]
 www.youtube.com###guide [title="YouTube Kids"], .ytd-mini-guide-entry-renderer[title="YouTube Kids"]
