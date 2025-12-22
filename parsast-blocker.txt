@@ -15,6 +15,9 @@
 ! Privacy
 !#include parsast-privacy.txt
 
+! Shortener
+!#include parsast-url-shortener.txt
+
 ! Mobile (Firefox Android, Cromite, AdGuard for Android, AdGuard for iOS, AdGuard for Safari, Samsung Internet)
 !#if env_mobile
 !#include parsast-anti-ai-mobile.txt
