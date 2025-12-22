@@ -6,9 +6,6 @@
 ! Annoyances
 !#include parsast-annoyances.txt
 
-! NSFW
-!#include parsast-anti-nsfw.txt
-
 ! AI
 !#include parsast-anti-ai.txt
 
