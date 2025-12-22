@@ -1,5 +1,5 @@
 ! Title: ➗ Parsast URL Shortener
-! Version: 22December2025v1
+! Version: 22December2025v2
 ! Description: This list reduces the length of URLs. Essentially, it automatically removes unnecessary ?/& values from the URLs, making them easier to copy from the URL bar and pasting elsewhere as links.
 ! Homepage: https://codeberg.org/Parsast/filterlists
 
