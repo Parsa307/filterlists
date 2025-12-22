@@ -8,3 +8,6 @@
 
 ! https://safebooru.donmai.us/posts?tags=date_a_live&z=5
 ||donmai.us^$removeparam=z
+
+! https://www.zerochan.net/Kyouno+Natsumi?q=Kyouno+Natsumi
+||zerochan.net^$removeparam=q
