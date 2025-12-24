@@ -1,6 +1,5 @@
 ! Title: 🛡️ Parsast Privacy
 ! Version: 09October2025v1
-! Description: Privacy, should be a human-right!
 ! Homepage: https://codeberg.org/Parsast/filterlists
 
 ! Reddit (Recent Visited Pages)

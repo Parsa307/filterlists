@@ -1,6 +1,6 @@
 ! Title: 🚫 Parsast Blocker
 ! Version: 05October2025v1
-! Description: Block ADS & NSFW & Where AI shouldn't be & Annoyances. That most filters miss!
+! Description: Block Annoyances & where AI shouldn't be!
 ! Homepage: https://codeberg.org/Parsast/filterlists
 
 ! Annoyances
