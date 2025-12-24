@@ -1,6 +1,6 @@
 ! Title: 🚫 Parsast Anti-AI
 ! Version: 1December2025v2
-! Description: In a world where AI is everywhere, when nobody asked!
+! Description: In a world where AI is everywhere, this removes AI in places it shouldn't be!
 ! Homepage: https://codeberg.org/Parsast/filterlists
 
 ! Hide Inspiration for YouTube Studio
