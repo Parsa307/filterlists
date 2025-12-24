@@ -1,6 +1,6 @@
 ! Title: 🚫 Parsast Anti-AI Mobile
 ! Version: 17October2025v1
-! Description: In a world, where AI is everywhere. This list removes AI in places it shouldn't be!
+! Description: In a world dominated by AI, this list removes AI in places it shouldn't be!
 ! Homepage: https://codeberg.org/Parsast/filterlists
 
 ! Hide Reddit Answers
