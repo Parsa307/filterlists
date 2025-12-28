@@ -3,5 +3,5 @@
 ! Description: In a world dominated by AI, this list removes AI in places it shouldn't be!
 ! Homepage: https://gitlab.com/Parsast/filterlists
 
-! Hide Reddit Answers
+! Reddit (Answers)
 reddit.com###answers-nav-button
