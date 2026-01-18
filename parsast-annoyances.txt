@@ -3,13 +3,13 @@
 ! Description: Block Annoyances. Annoyances not covered by other filterlists.
 ! Homepage: https://gitlab.com/Parsast/filterlists
 
-! Reddit (Advertise Button)
+! reddit.com (Advertise Button)
 reddit.com###advertise-button
 
-! YouTube (Clips, Playables, YouTube Kids)
+! youtube.com (Clips, Playables, YouTube Kids)
 www.youtube.com###guide [title="Clips"], .ytd-mini-guide-entry-renderer[title="Clips"]
 www.youtube.com###guide [title="Playables"], .ytd-mini-guide-entry-renderer[title="Playables"]
 www.youtube.com###guide [title="YouTube Kids"], .ytd-mini-guide-entry-renderer[title="YouTube Kids"]
 
-! Google Photos (Unlock storage discount)
+! photos.google.com (Unlock storage discount)
 photos.google.com##[data-utm-campaign="photos_storage_near_quota"]

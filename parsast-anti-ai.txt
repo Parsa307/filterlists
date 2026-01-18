@@ -3,16 +3,16 @@
 ! Description: In a world dominated by AI, this list removes AI in places it shouldn't be!
 ! Homepage: https://gitlab.com/Parsast/filterlists
 
-! YouTube Studio (Inspiration)
+! studio.youtube.com (Inspiration)
 studio.youtube.com###inspiration-tab
 
-! Reddit (Answers)
+! reddit.com (Answers)
 reddit.com##faceplate-tracker[noun="gen_guides_sidebar"]
 
-! Google Mail (Gemini)
+! mail.google.com (Gemini)
 mail.google.com##[data-rp-placement-id="gemkick-pep-icon-callout-id"] 
 
-! GitHub Copilot (Explain error)
+! github.com (Explain error)
 github.com##.CopilotActionsChatButton-module__copilotActionsChatButton--cpHYe
 
 ! pasted.ir (Ask AI)

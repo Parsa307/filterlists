@@ -2,6 +2,6 @@
 ! Version: 09October2025v1
 ! Homepage: https://gitlab.com/Parsast/filterlists
 
-! Reddit (Recent Visited Pages)
+! reddit.com (Recent Visited Pages)
 reddit.com##reddit-recent-pages
 reddit.com##+js(set-local-storage-item, recent-subreddits-store, $remove$)
