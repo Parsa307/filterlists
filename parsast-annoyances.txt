@@ -1,5 +1,5 @@
 ! Title: 🚫 Parsast Annoyances
-! Version: 4December2025v2
+! Version: 3February2026v1
 ! Description: Block Annoyances. Annoyances not covered by other filterlists.
 ! Homepage: https://gitlab.com/Parsast/filterlists
 
@@ -13,3 +13,6 @@ www.youtube.com###guide [title="YouTube Kids"], .ytd-mini-guide-entry-renderer[t
 
 ! photos.google.com (Unlock storage discount)
 photos.google.com##[data-utm-campaign="photos_storage_near_quota"]
+
+! gravatar.com (Personalized domain)
+gravatar.com##.is-domain-banner
