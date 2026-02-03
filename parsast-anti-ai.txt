@@ -3,9 +3,6 @@
 ! Description: In a world dominated by AI, this list removes AI in places it shouldn't be!
 ! Homepage: https://gitlab.com/Parsast/filterlists
 
-! studio.youtube.com (Inspiration)
-studio.youtube.com###inspiration-tab
-
 ! github.com (Explain error)
 github.com##.CopilotActionsChatButton-module__copilotActionsChatButton--cpHYe
 
