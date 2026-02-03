@@ -1,16 +1,10 @@
 ! Title: 🚫 Parsast Anti-AI
-! Version: 18January2026v1
+! Version: 03February2026v1
 ! Description: In a world dominated by AI, this list removes AI in places it shouldn't be!
 ! Homepage: https://gitlab.com/Parsast/filterlists
 
 ! studio.youtube.com (Inspiration)
 studio.youtube.com###inspiration-tab
-
-! reddit.com (Answers)
-reddit.com##faceplate-tracker[noun="gen_guides_sidebar"]
-
-! mail.google.com (Gemini)
-mail.google.com##[data-rp-placement-id="gemkick-pep-icon-callout-id"] 
 
 ! github.com (Explain error)
 github.com##.CopilotActionsChatButton-module__copilotActionsChatButton--cpHYe
