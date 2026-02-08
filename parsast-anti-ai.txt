@@ -1,10 +1,10 @@
 ! Title: 🚫 Parsast Anti-AI
-! Version: 3February2026v1
+! Version: 8February2026v1
 ! Description: In a world dominated by AI, this list removes AI in places it shouldn't be!
 ! Homepage: https://gitlab.com/Parsast/filterlists
 
 ! github.com (Explain error)
-github.com##.CopilotActionsChatButton-module__copilotActionsChatButton--cpHYe
+github.com##[partial-name="copilot-actions-chat-button"]
 
 ! pasted.ir (Ask AI)
 pasted.ir###paste-ask-ai-btn
