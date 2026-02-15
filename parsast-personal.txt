@@ -1,4 +1,4 @@
-! Title: 🚫 Parsast Personal Filters
+! Title: 🚫 Parsast Personal
 ! Version: 11February2026v1
 ! Description: Filters I use myself but may cause unintended effects of other users.
 ! Homepage: https://gitlab.com/Parsast/filterlists
