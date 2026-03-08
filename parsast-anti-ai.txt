@@ -1,5 +1,5 @@
 ! Title: 🚫 Parsast Anti-AI
-! Version: 8February2026v1
+! Version: 08February2026v1
 ! Description: In a world dominated by AI, this list removes AI in places it shouldn't be!
 ! Homepage: https://gitlab.com/Parsast/filterlists
 
