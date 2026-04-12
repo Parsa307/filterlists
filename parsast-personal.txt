@@ -13,3 +13,6 @@ github.com##.prc-ActionList-Divider-taVfb
 
 ! gravatar.com (Personalized domain):
 gravatar.com##.share-drawer__domain
+
+! DxD
+!#include parsast-dxd.txt

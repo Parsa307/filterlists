@@ -1,0 +1,7 @@
+! Title: 🚫 Parsast DxD
+! Version: 12April2026v1
+! Description: Filters to block terr*ist moves.
+! Homepage: https://gitlab.com/Parsast/filterlists
+
+! nilesoft.org:
+nilesoft.org###gaza-genocide
