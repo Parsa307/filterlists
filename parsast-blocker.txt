@@ -11,6 +11,3 @@
 
 ! Privacy
 !#include parsast-privacy.txt
-
-! Shortener
-!#include parsast-url-shortener.txt
