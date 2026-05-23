@@ -1,5 +1,4 @@
 ! Title: 🚫 Parsast Blocker
-! Version: 05October2025v1
 ! Description: Block Annoyances & where AI shouldn't be!
 ! Homepage: https://gitlab.com/Parsast/filterlists
 
