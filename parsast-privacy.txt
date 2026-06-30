@@ -1,7 +1,6 @@
 ! Title: 🛡️ Parsast Privacy
-! Version: 09October2025v1
+! Version: 30June2026v1
 ! Homepage: https://gitlab.com/Parsast/filterlists
 
-! reddit.com (Recent Visited Pages)
-reddit.com##reddit-recent-pages
-reddit.com##+js(set-local-storage-item, recent-subreddits-store, $remove$)
+! reddit.com (Recent)
+reddit.com###recent-communities-section
