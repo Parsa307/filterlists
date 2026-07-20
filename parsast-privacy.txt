@@ -2,5 +2,5 @@
 ! Version: 30June2026v1
 ! Homepage: https://gitlab.com/Parsast/filterlists
 
-! reddit.com (Recent)
+! reddit.com:
 reddit.com###recent-communities-section
