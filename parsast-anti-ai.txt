@@ -7,7 +7,7 @@
 github.com##[class*=CopilotActionsChatButton]
 
 ! github.com (Ask about this diff):
-github.com##li[role="menuitem"]:has(svg.octicon-copilot)
+github.com##li[data-component="ActionList.Item"]:has(svg.octicon-copilot)
 github.com##li[data-component="ActionList.Divider"]:has(+ li:has(svg.octicon-copilot))
 
 ! pasted.ir (Ask AI)
